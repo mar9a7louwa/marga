@@ -1,0 +1,42 @@
+<streamingInfos>
+
+    <streaminginfo>
+            <cname>2M</cname>
+            <item>
+            <title>High</title>
+            <link>http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12608.ts</link>
+            </item>
+    </streaminginfo>
+
+    <streaminginfo>
+            <cname>Echorouk Tv</cname>
+            <item>
+            <title>High</title>
+            <link>http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/292.ts</link>
+            </item>
+    </streaminginfo>
+
+    <streaminginfo>
+            <cname>Echorouk News</cname>
+            <item>
+            <title>High</title>
+            <link>http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/295.ts</link>
+            </item>
+    </streaminginfo>
+
+    <streaminginfo>
+            <cname>Echorouk Banna</cname>
+            <item>
+            <title>High</title>
+            <link>http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/266.ts</link>
+            </item>
+    </streaminginfo>
+
+    <streaminginfo>
+            <cname>TRT Arabic</cname>
+            <item>
+            <title>High</title>
+            <link>http://proiptv.net:1234/live/slimhadj/TBHzvugBN9/459.ts</link>
+            </item>
+    </streaminginfo>
+</streamingInfos>

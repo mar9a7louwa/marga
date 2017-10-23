@@ -1,0 +1,65 @@
+<categories>
+	<category>
+		<id>all</id>
+		<catname>All</catname>
+		<imageurl>http://icons.iconarchive.com/icons/dailyoverview/tv/96/television-08-icon.png</imageurl>
+	</category>
+
+    <category>
+		<id>news</id>
+		<catname>News</catname>
+		<imageurl>http://icons.iconarchive.com/icons/pelfusion/folded-flat/96/News-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>algeria</id>
+		<catname>Algeria</catname>
+		<imageurl>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Algeria-Flag-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>morocco</id>
+		<catname>Morocco</catname>
+		<imageurl>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Algeria-Flag-icon.png</imageurl>
+	</category>
+    
+    <category>
+		<id>tunisia</id>
+		<catname>Tunisia</catname>
+		<imageurl>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Tunisia-Flag-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>kids</id>
+		<catname>Kids</catname>
+		<imageurl>http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>islam</id>
+		<catname>Islamic</catname>
+		<imageurl>http://icons.iconarchive.com/icons/designbolts/religious-symbol/256/Islam-Crescent-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>doc</id>
+		<catname>Documentary</catname>
+		<imageurl>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Documentary-icon.png</imageurl>
+	</category>
+    
+	<category>
+		<id>English/Canada</id>
+		<catname>English Channels</catname>
+		<imageurl>http://www.english-trainer.eu/Bildmaterial/Kugel_Logo.jpg</imageurl>
+	</category>
+    s
+	<category>
+		<id>French/Canada</id>
+		<catname>French</catname>
+		<imageurl>http://icons.iconarchive.com/icons/hopstarter/flag/256/France-icon.png</imageurl>
+	</category>
+
+
+
+	
+</categories>

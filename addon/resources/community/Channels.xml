@@ -1,0 +1,45 @@
+<channels>
+    <channel>
+        <cname>Echorouk Tv</cname>
+        <imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+        <enabled>True</enabled>
+        <assignedcategory>
+            <category>algeria</category>
+        </assignedcategory>
+    </channel>
+    
+    <channel>
+        <cname>Echorouk News</cname>
+        <imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+        <enabled>True</enabled>
+        <assignedcategory>
+            <category>algeria</category>
+        </assignedcategory>
+    </channel>
+    
+    <channel>
+        <cname>Echorouk Banna</cname>
+        <imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+        <enabled>True</enabled>
+        <assignedcategory>
+            <category>algeria</category>
+        </assignedcategory>
+    </channel>
+    
+	<channel>
+        <cname>TRT Arabic</cname>
+        <imageurl>http://www.trt.net.tr/img/logolar/2012/trtarapca_b.png</imageurl>
+        <enabled>True</enabled>
+        <assignedcategory>
+            <category>news</category>
+        </assignedcategory>
+    </channel>
+	<channel>
+        <cname>TRT Arabic</cname>
+        <imageurl>http://www.trt.net.tr/img/logolar/2012/trtarapca_b.png</imageurl>
+        <enabled>True</enabled>
+        <assignedcategory>
+            <category>news</category>
+        </assignedcategory>
+    </channel>
+</channels>
